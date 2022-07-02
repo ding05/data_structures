@@ -1,0 +1,90 @@
+ADT Priority Queue
+  # Data is modified. The index is an added variable to determine the priority. The item with the smallest index is at the front and the item with the largest index is at the rear.
+  Data An empty list of values with a reference to the first (front, with the smallest index) and last (rear, with the largest index) items # Modify this line.
+  Methods
+    QEmpty
+      Input: None
+      Precondition: None
+      Process: Check if the queues contains any data items.
+      Postcondition: None
+      Output: Return 1 or true if queue is empty and 0 or false otherwise.
+    QDelete
+      Input: None
+      Precondition: Queue contains meaningful data values
+      Process: Remove an item from the front of the queue
+      Postcondition: The queue contains one less data item
+      Output: Return the deleted value.
+    # QInsert is modified. An item is stored but its position is not the rear of the queue, but the position equal to its index of the queue.
+	QInsert
+      Input: A data item to be stored in the queue based on its index # Modify this line.
+      Precondition: None
+      Process: Store an item at the position equal to its index of the queue # Modify this line.
+      Postcondition: The queue contains one additional data item
+      Output: None
+    QPeek
+      Input: None
+      Precondition: Queue contains meaningful data values
+      Process: Retrieve the value of the data item at the front of the queue
+      Postcondition: The queue is unchanged.
+      Output: Return the value of the data item at the front of the queue.
+end ADT Priority Queue
+
+""""""
+
+define a function, with the input: list (a singly linked list):
+  if list->head is null:
+	return list
+  else:
+    # There is no previous node for the head.
+	let prevNode be null
+	# From the head to the tail
+	while curNode is not null:
+	  # Store the next node first before being replacd by the previous node.
+	  let next_stored be curNode->next
+	  # Let the next node be the previous node, i.e. rearranging the pointer.
+	  let curNode->next be prevNode
+	  # The previous node becomes the current node.
+	  let prevNode be curNode
+	  # The current node is the next node and move to the next.
+	  let curNode be next_stored
+	# Store the head first before being replaced by the tail.
+	let head_stored be list->head
+	# Switch the head and tail.
+	let list->head be list->tail
+	let list->tail be head_stored
+	return list
+
+""""""
+
+define a function, with the input: list (a singly linked list), m (the mth elment), n (the nth elment):
+  if list->head is null:
+	return list
+  else:
+    # First, if Node m or n is a head or a tail, let the head or tail pointer orginally to m or n be to n or m.
+    if list->head is Node[m]:
+      let list->head be Node[n]
+    else if list->head is Node[n]:
+      let list->head be Node[m]
+    else if list->tail is Node[m]:
+      let list->tail be Node[n]
+    else if list->head is Node[n]:
+      let list->tail be Node[m]	 
+    # Then, switch the contents and pointers of Nodes m and n.
+    # Switch the contents.
+    let content be Node[m]
+    let Node[m] be Node[n]
+    let Node[n] be content
+    # Swtich the pointers.
+    # Search the nodes before Nodes m and n.
+    while curNode is not null:
+	  let next_stored be curNode->next
+      if curNode->next is Node[m]:
+	    let curNode->next be Node[n]
+	  elif curNode->next is Node[n]:
+	    let curNode->next be Node[m]
+	  let curNode be next_stored
+    # Change the pointers of Nodes m and n.
+      let pointer be Node[m]->next
+	  let Node[m]->next be Node[n]->next
+      let Node[n]->next be pointer
+    return list
