@@ -1,0 +1,19 @@
+# The following class defines a node in a Fibonacci binary tree. 
+define a class: FibNode:
+  define a constructor that takes the instance of the object itself and a value n:
+    let self.data be n
+	let self.left node be None
+	let self.right node be None
+
+# The following function builds a Fibonacci binary tree of order n and returns a node with pointers.
+define a function: buildFibTree, with the input the order n:
+  # The base case: when the order is 0 or 1
+  if n is 0 or n is 1:
+    let node be FibNode(n)
+	return node
+  # The recursive process: when the order is greater than 1
+  else:
+    let node be FibNode(n)
+	let node.left be buildFibTree(n-1)
+	let node.right be buildFibTree(n-2)
+	return node
