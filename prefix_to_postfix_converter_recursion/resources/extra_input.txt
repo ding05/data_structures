@@ -1,0 +1,18 @@
+AB
++-/
+$A0
+--ABC
+--AB         C
+-+-ABC
++/-AB
+*+345
++3*45
++-*A$BCD//EF+GH
++-$ABC*D**EFG
+++A-*$BCD/+EF*GHI
+123123
+AAAAA---BBBBB
+///////
+     
+-~~ABC
+ABC&&&&&DEF
