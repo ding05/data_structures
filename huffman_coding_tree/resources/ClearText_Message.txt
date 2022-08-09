@@ -1,0 +1,128 @@
+The tree is: ABCDEFGHIJKLMNOPQRSTUVWXYZ: 413, BCGHIMOPQRSTUXYZ: 244, ADEFJKLNVW: 169, BCHIMOS: 138, GPQRTUXYZ: 106, DEFN: 89, AJKLVW: 80, MOS: 72, BCHI: 66, GPQUXYZ: 56, RT: 50, DFN: 47, E: 42, LW: 41, AJKV: 39, MO: 37, S: 35, CH: 34, BI: 32, GU: 29, PQXYZ: 27, R: 25, T: 25, N: 24, DF: 23, W: 21, L: 20, JKV: 20, A: 19, M: 19, O: 18, C: 17, H: 17, B: 16, I: 16, U: 15, G: 14, QXYZ: 14, P: 13, F: 12, D: 11, K: 10, JV: 10, Y: 8, QXZ: 6, J: 5, V: 5, Z: 3, QX: 3, X: 2, Q: 1.
+The code is A = 0000, B = 11001, C = 11011, D = 01100, E = 010, F = 01101, G = 10110, H = 11010, I = 11000, J = 000101, K = 00011, L = 0010, M = 11111, N = 0111, O = 11110, P = 10100, Q = 10101000, R = 1001, S = 1110, T = 1000, U = 10111, V = 000100, W = 0011, X = 10101001, Y = 101011, Z = 1010101.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage after encoding for 101000101000010100110100110001010001010011010011000110110001101001100000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110101000101000010100110100110001010001010011010011000110110001101001100: 324 bits.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage after encoding for 101000101000010100110100110001010001010011010011000110110001101001100000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110101000101000010100110100110001010001010011010011000110110001101001100: 324 bits.
+Space usage after encoding for 11010111101011111101000111100111100011010010010000010110001001011010000011100010000001110110001001100: 101 bits.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage after encoding for 101000101000010100110100110001010001010011010011000110110001101001100000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110101000101000010100110100110001010001010011010011000110110001101001100: 324 bits.
+Space usage after encoding for 11010111101011111101000111100111100011010010010000010110001001011010000011100010000001110110001001100: 101 bits.
+Space usage after encoding for 1100011101000110100000100010101111110101111001011011100001110000001000000111111000110101001: 91 bits.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage after encoding for 101000101000010100110100110001010001010011010011000110110001101001100000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110101000101000010100110100110001010001010011010011000110110001101001100: 324 bits.
+Space usage after encoding for 11010111101011111101000111100111100011010010010000010110001001011010000011100010000001110110001001100: 101 bits.
+Space usage after encoding for 1100011101000110100000100010101111110101111001011011100001110000001000000111111000110101001: 91 bits.
+Space usage after encoding for 0101010100110001001000011000011110100101111000: 46 bits.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage after encoding for 101000101000010100110100110001010001010011010011000110110001101001100000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110101000101000010100110100110001010001010011010011000110110001101001100: 324 bits.
+Space usage after encoding for 11010111101011111101000111100111100011010010010000010110001001011010000011100010000001110110001001100: 101 bits.
+Space usage after encoding for 1100011101000110100000100010101111110101111001011011100001110000001000000111111000110101001: 91 bits.
+Space usage after encoding for 0101010100110001001000011000011110100101111000: 46 bits.
+Space usage after encoding for 1101001000100010111100011111101001001001100: 43 bits.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage after encoding for 101000101000010100110100110001010001010011010011000110110001101001100000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110101000101000010100110100110001010001010011010011000110110001101001100: 324 bits.
+Space usage after encoding for 11010111101011111101000111100111100011010010010000010110001001011010000011100010000001110110001001100: 101 bits.
+Space usage after encoding for 1100011101000110100000100010101111110101111001011011100001110000001000000111111000110101001: 91 bits.
+Space usage after encoding for 0101010100110001001000011000011110100101111000: 46 bits.
+Space usage after encoding for 1101001000100010111100011111101001001001100: 43 bits.
+Space usage after encoding for 1110111101111101000110101100010010110011101000101110110101101: 61 bits.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage after encoding for 101000101000010100110100110001010001010011010011000110110001101001100000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110101000101000010100110100110001010001010011010011000110110001101001100: 324 bits.
+Space usage after encoding for 11010111101011111101000111100111100011010010010000010110001001011010000011100010000001110110001001100: 101 bits.
+Space usage after encoding for 1100011101000110100000100010101111110101111001011011100001110000001000000111111000110101001: 91 bits.
+Space usage after encoding for 0101010100110001001000011000011110100101111000: 46 bits.
+Space usage after encoding for 1101001000100010111100011111101001001001100: 43 bits.
+Space usage after encoding for 1110111101111101000110101100010010110011101000101110110101101: 61 bits.
+Space usage after encoding for 11111111111111111111111111111111111111111111111111111111111111111111111111100011: 80 bits.
+Space usage before encoding for Sally sells seashells by the seashore. : 312 bits.
+Space usage before encoding for Peter Piper picked a peck of pickled peppers a peck of pickled peppers Peter Piper picked. : 728 bits.
+Space usage before encoding for Houston, the Eagle has landed. : 248 bits.
+Space usage before encoding for Is that your final answer?: 208 bits.
+Space usage before encoding for EXTRA INPUT:: 96 bits.
+Space usage before encoding for Hello World!: 96 bits.
+Space usage before encoding for some !@#!@#$!@ weird stuff: 208 bits.
+Space usage before encoding for mmmmmmmmmmmmmmmk: 128 bits.
+Space usage before encoding for 123123ok: 64 bits.
+Space usage after encoding for 11100000001000101010111110010001000101110111001000001110110100100010001011101100110101110001101001011100100000111011010111101001010: 131 bits.
+Space usage after encoding for 101000101000010100110100110001010001010011010011000110110001101001100000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110000010100010110110001111110011011010011000110110001100100100110010100010101001010001010011110101000101000010100110100110001010001010011010011000110110001101001100: 324 bits.
+Space usage after encoding for 11010111101011111101000111100111100011010010010000010110001001011010000011100010000001110110001001100: 101 bits.
+Space usage after encoding for 1100011101000110100000100010101111110101111001011011100001110000001000000111111000110101001: 91 bits.
+Space usage after encoding for 0101010100110001001000011000011110100101111000: 46 bits.
+Space usage after encoding for 1101001000100010111100011111101001001001100: 43 bits.
+Space usage after encoding for 1110111101111101000110101100010010110011101000101110110101101: 61 bits.
+Space usage after encoding for 11111111111111111111111111111111111111111111111111111111111111111111111111100011: 80 bits.
+Space usage after encoding for 1111000011: 10 bits.

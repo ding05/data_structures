@@ -1,0 +1,157 @@
+The tree is: ABCDEFGHIJKLMNOPQRSTUVWXYZ: 413, BCGHIMOPQRSTUXYZ: 244, ADEFJKLNVW: 169, BCHIMOS: 138, GPQRTUXYZ: 106, DEFN: 89, AJKLVW: 80, MOS: 72, BCHI: 66, GPQUXYZ: 56, RT: 50, DFN: 47, E: 42, LW: 41, AJKV: 39, MO: 37, S: 35, CH: 34, BI: 32, GU: 29, PQXYZ: 27, R: 25, T: 25, N: 24, DF: 23, W: 21, L: 20, JKV: 20, A: 19, M: 19, O: 18, C: 17, H: 17, B: 16, I: 16, U: 15, G: 14, QXYZ: 14, P: 13, F: 12, D: 11, K: 10, JV: 10, Y: 8, QXZ: 6, J: 5, V: 5, Z: 3, QX: 3, X: 2, Q: 1.
+The code is A = 0000, B = 11001, C = 11011, D = 01100, E = 010, F = 01101, G = 10110, H = 11010, I = 11000, J = 000101, K = 00011, L = 0010, M = 11111, N = 0111, O = 11110, P = 10100, Q = 10101000, R = 1001, S = 1110, T = 1000, U = 10111, V = 000100, W = 0011, X = 10101001, Y = 101011, Z = 1010101.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage before encoding for MITMHMDMITMAETKRN: 136 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage before encoding for MITMHMDMITMAETKRN: 136 bits.
+Space usage before encoding for : 0 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage before encoding for MITMHMDMITMAETKRN: 136 bits.
+Space usage before encoding for : 0 bits.
+Space usage before encoding for AAA: 24 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage before encoding for MITMHMDMITMAETKRN: 136 bits.
+Space usage before encoding for : 0 bits.
+Space usage before encoding for AAA: 24 bits.
+Space usage before encoding for MM: 16 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage before encoding for MITMHMDMITMAETKRN: 136 bits.
+Space usage before encoding for : 0 bits.
+Space usage before encoding for AAA: 24 bits.
+Space usage before encoding for MM: 16 bits.
+Space usage before encoding for OA: 16 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage before encoding for MITMHMDMITMAETKRN: 136 bits.
+Space usage before encoding for : 0 bits.
+Space usage before encoding for AAA: 24 bits.
+Space usage before encoding for MM: 16 bits.
+Space usage before encoding for OA: 16 bits.
+Space usage before encoding for EZE: 24 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage before encoding for MITMHMDMITMAETKRN: 136 bits.
+Space usage before encoding for : 0 bits.
+Space usage before encoding for AAA: 24 bits.
+Space usage before encoding for MM: 16 bits.
+Space usage before encoding for OA: 16 bits.
+Space usage before encoding for EZE: 24 bits.
+Space usage before encoding for A: 8 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
+Space usage before encoding for EBEBOC: 48 bits.
+Space usage before encoding for GJEFCDEBEIUKN: 104 bits.
+Space usage before encoding for MITMHMDMITMAETKRN: 136 bits.
+Space usage before encoding for : 0 bits.
+Space usage before encoding for AAA: 24 bits.
+Space usage before encoding for MM: 16 bits.
+Space usage before encoding for OA: 16 bits.
+Space usage before encoding for EZE: 24 bits.
+Space usage before encoding for A: 8 bits.
+Space usage before encoding for : 0 bits.
+Space usage after encoding for 01011001010110011111011011 : 27 bits.
+Space usage after encoding for 10110000101010011011101101100010110010101100010111000110111 : 60 bits.
+Space usage after encoding for 11111110001000111111101011111011001111111000100011111000001010000001110010111: 77 bits.
+Space usage after encoding for EXTRA INPUT:: 12 bits.
+Space usage after encoding for 00000000000000: 14 bits.
+Space usage after encoding for 11111111111: 11 bits.
+Space usage after encoding for 222222211110000000: 18 bits.
+Space usage after encoding for 01010101010101: 14 bits.
+Space usage after encoding for ABCSSD00001: 11 bits.
+Space usage after encoding for 1: 1 bits.
