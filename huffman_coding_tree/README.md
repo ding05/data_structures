@@ -22,7 +22,7 @@ PyCharm 2022.1.2
 ### converter Usage:
 
 ```commandline
-usage: python -m converter [-h] input_filepath output_filepath
+usage: python -m converter [-h] input_freq_filepath input_expression_filepath output_filepath message_filepath
 
 positional arguments:
   input_freq_filepath        Input Frequency Table Pathname
