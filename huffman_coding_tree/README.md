@@ -16,8 +16,8 @@ PyCharm 2022.1.2
 2. Navigate to [this](.) directory, which contains the README.md file.
 3. Run the program as a module: `python -m converter -h`. This will print the help message.
 4. Run the program as a module with real inputs: `python -m converter <input_freq_filepath> <input_expression_filepath> <output_filepath> <message_filepath>`
-   For the input for encoding, i.e. `python -m converter resources/FreqTable.txt resources/ClearText.txt ClearText_Output.txt ClearText_Message.txt`
-   For the input for decoding, i.e. `python -m converter resources/FreqTable.txt resources/Encoded.txt Encoded_Output.txt Encoded_Message.txt`
+   For the input for encoding, i.e. `python -m converter resources/FreqTable.txt resources/ClearText.txt resources/ClearText_Output.txt resources/ClearText_Message.txt`
+   For the input for decoding, i.e. `python -m converter resources/FreqTable.txt resources/Encoded.txt resources/Encoded_Output.txt resources/Encoded_Message.txt`
 
 ### converter Usage:
 
