@@ -2,7 +2,7 @@ def insertion_sort(unsorted_integer_list: list):
   """
   Perform an Insertion Sort on a given integer list.
   :param unsorted_integer_list: a list of unsorted integers
-  :return: a list of sorted integers
+  :return sorted_integer_list: a list of sorted integers
   :return num_compare: an integer of the number of comparisons
   """
   num_compare = 0

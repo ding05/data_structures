@@ -14,7 +14,7 @@ def quick_sort(unsorted_integer_list: list, type="A"):
   and two as stopping cases.
   :param unsorted_integer_list: a list of unsorted integers
   :param type: one of the four preset types of Quicksorts
-  :return: a list of sorted integers
+  :return sorted_integer_list: a list of sorted integers
   :return num_compare: an integer of the number of comparisons
   """
   low = 0
